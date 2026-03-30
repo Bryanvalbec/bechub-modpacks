@@ -1,17 +1,18 @@
 [
   {
-    "name": "LostFrontier NeoForge",
-    "version": "1.21",
+    "name": "Hardcore Server",
+    "version": "1",
     "type": "paper",
     "description": "Hardcore world reset server",
-    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/LostFrontier-v2.2.zip"
+    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/Hardcore%201.21.11-v1.zip"
     
   },
   {
-    "name": "Hardcore Server",
-    "version": "1.21",
+    "name": "LostFrontier NeoForger",
+    "version": "2.2",
     "type": "neoforge",
     "description": "Modded survival server",
-    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/Hardcore 1.21.11-v1.zip"
+    
+    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/LostFrontier-v2.2.zip"
   }
 ]
