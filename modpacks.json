@@ -1,18 +1,22 @@
 [
   {
-    "name": "Hardcore Server",
-    "version": "1",
-    "type": "paper",
-    "description": "Hardcore world reset server",
-    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/Hardcore%201.21.11-v1.zip"
-    
-  },
+    "name": "Hardcore",
+    "version": "1.0",
+    "type": "Fabric",
+    "minecraft": "1.21.11",
+    "loader": "fabric",
+    "loaderVersion": "0.18.5",
+    "description": "Modpack hardcore Bechub",
+    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/hardcore.zip"
+  }
   {
-    "name": "LostFrontier NeoForger",
+    "name": "Lost Frontier",
     "version": "2.2",
-    "type": "neoforge",
-    "description": "Modded survival server",
-    
-    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/LostFrontier-v2.2.zip"
+    "type": "NeoForge",
+    "minecraft": "1.21.11",
+    "loader": "fabric",
+    "loaderVersion": "0.18.5",
+    "description": "Modpack hardcore Bechub",
+    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/LostFrontier-v2-2.zip"
   }
 ]
