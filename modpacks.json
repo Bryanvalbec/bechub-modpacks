@@ -7,6 +7,6 @@
     "loader": "fabric",
     "loaderVersion": "0.18.5",
     "description": "Modpack hardcore Bechub",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/hardcore.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/hardcore.zip?raw=true"
   }
 ]
