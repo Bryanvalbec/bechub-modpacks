@@ -7,16 +7,6 @@
     "loader": "fabric",
     "loaderVersion": "0.18.5",
     "description": "Modpack hardcore Bechub",
-    "download": "https://drive.google.com/uc?export=download&id=1s73h8tahvcOIAssMhlXkLtfLOMIlJEXm"
-  }
-  {
-    "name": "Lost Frontier",
-    "version": "2.2",
-    "type": "NeoForge",
-    "minecraft": "1.21.11",
-    "loader": "fabric",
-    "loaderVersion": "0.18.5",
-    "description": "Modpack hardcore Bechub",
-    "download": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/LostFrontier-v2-2.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/hardcore.zip"
   }
 ]
