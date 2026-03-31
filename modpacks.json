@@ -18,5 +18,15 @@
     "loaderVersion": "51.0.33",
     "description": "Simple Voice Chat y Sound Phisics",
     "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Simplevoicechat.zip"
+  },
+  {
+    "name": "Immersed With Shaders",
+    "version": "1.0",
+    "type": "NeoForge",
+    "minecraft": "1.21.8",
+    "loader": "neoforge",
+    "loaderVersion": "21.8.40",
+    "description": "Immersed With Shaders is a fully client side",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/ImmersedWithShaders.zip"
   }
 ]
