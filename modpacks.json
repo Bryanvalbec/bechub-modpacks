@@ -10,13 +10,13 @@
     "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/hardcore.zip"
   },
   {
-    "name": "Omnicraft",
+    "name": "SimpleChat",
     "version": "1.0",
     "type": "Forge",
-    "minecraft": "1.20.1",
+    "minecraft": "1.21",
     "loader": "forge",
-    "loaderVersion": "47.4.0",
-    "description": "Ben 10",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Omnicraft.zip"
+    "loaderVersion": "51.0.33",
+    "description": "Simple Voice Chat y Sound Phisics",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Simplevoicechat.zip"
   }
 ]
