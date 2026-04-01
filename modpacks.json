@@ -1,41 +1,12 @@
 [
   {
     "name": "Hardcore",
-    "version": "2.0",
+    "version": "3.0",
     "type": "Fabric",
     "minecraft": "1.21.11",
     "loader": "fabric",
     "loaderVersion": "0.18.5",
-    "description": "Modpack hardcore Bechub",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore-v2.zip",
-    "serverIP": "26.10.226.128",
-    "serverPort": 25565,
-    "serverName": "Hardcore Server"
-  },
-  {
-    "name": "SimpleChat",
-    "version": "1.0",
-    "type": "Forge",
-    "minecraft": "1.21",
-    "loader": "forge",
-    "loaderVersion": "51.0.33",
-    "description": "Simple Voice Chat y Sound Phisics",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Simplevoicechat.zip",
-    "serverIP": "26.10.226.128",
-    "serverPort": 25566,
-    "serverName": "SimpleChat Server"
-  },
-  {
-    "name": "Immersed With Shaders",
-    "version": "1.0",
-    "type": "NeoForge",
-    "minecraft": "1.21.8",
-    "loader": "neoforge",
-    "loaderVersion": "21.8.40",
-    "description": "Immersed With Shaders is a fully client side",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/ImmersedWithShaders.zip",
-    "serverIP": "26.10.226.128",
-    "serverPort": 25567,
-    "serverName": "Immersed Server"
+    "description": "Modpack hardcore by iBryanbec",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore-v3.zip"
   }
 ]
