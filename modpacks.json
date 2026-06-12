@@ -11,12 +11,12 @@
   },
   {
     "name": "True Ending",
-    "version": "1.0",
+    "version": "1.1",
     "type": "Fabric",
     "minecraft": "1.21.1",
     "loader": "fabric",
     "loaderVersion": "0.19.3",
     "description": "True Ending Modpack by iBryanbec",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/True_Ending.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/TrueEnding-v2.zip"
   }
 ]
