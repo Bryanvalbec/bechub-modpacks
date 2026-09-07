@@ -1,0 +1,15 @@
+{
+  "roles": {
+    "general": 1,
+    "streamers": 2,
+    "amigos": 3,
+    "vip": 4,
+    "staff": 5,
+    "owner": 6
+  },
+  "players": {
+    "iBryanbec_": { "role": "owner" },
+    "OtroJugador": { "role": "vip" },
+    "OtroJugador": { "role": "vip" }
+  }
+}
