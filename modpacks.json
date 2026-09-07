@@ -20,5 +20,16 @@
     "loaderVersion": "0.19.3",
     "description": "True Ending Modpack by iBryanbec",
     "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/True_Ending.zip"
+  },
+  {
+    "name": "Cobblemon",
+    "version": "1.0",
+    "requiredRole": "amigos",
+    "type": "Fabric",
+    "minecraft": "1.21.1",
+    "loader": "fabric",
+    "loaderVersion": "0.19.5",
+    "description": "True Ending Modpack by iBryanbec",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Cobblemon.zip"
   }
 ]
