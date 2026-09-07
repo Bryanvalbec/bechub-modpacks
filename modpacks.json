@@ -2,6 +2,7 @@
   {
     "name": "Hardcore",
     "version": "3.0",
+    "requiredRole": "amigos",
     "type": "Fabric",
     "minecraft": "1.21.11",
     "loader": "fabric",
@@ -12,6 +13,7 @@
   {
     "name": "True Ending",
     "version": "1.0",
+    "requiredRole": "amigos",
     "type": "Fabric",
     "minecraft": "1.21.1",
     "loader": "fabric",
