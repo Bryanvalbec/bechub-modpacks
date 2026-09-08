@@ -8,7 +8,8 @@
     "loader": "fabric",
     "loaderVersion": "0.18.5",
     "description": "Modpack hardcore by iBryanbec",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore-v3.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore-v3.zip",
+    "icon": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/icons/minecraft.png"
   },
   {
     "name": "True Ending",
@@ -31,7 +32,8 @@
     "loader": "fabric",
     "loaderVersion": "0.19.5",
     "description": "True Ending Modpack by iBryanbec",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Cobblemon.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Cobblemon.zip",
+    "icon": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/icons/minecraft.png"
   },
   {
     "name": "Hardcore 2.0",
