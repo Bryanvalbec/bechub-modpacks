@@ -41,6 +41,7 @@
     "loader": "fabric",
     "loaderVersion": "0.19.5",
     "description": "Hardcore Modpack by iBryanbec",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore2.0.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore2.0.zip",
+    "icon": "https://i.postimg.cc/0NSm2V64/logohardcore.png"
   }
 ]
