@@ -19,7 +19,8 @@
     "loader": "fabric",
     "loaderVersion": "0.19.3",
     "description": "True Ending Modpack by iBryanbec",
-    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/True_Ending.zip"
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/True_Ending.zip",
+    "icon": "https://cdn.modrinth.com/data/MCnBYP0b/1799bd2e3ce81fcbbee19f0db0eb04a7aca6b7b5.png"
   },
   {
     "name": "Cobblemon",
