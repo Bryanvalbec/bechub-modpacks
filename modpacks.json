@@ -31,5 +31,16 @@
     "loaderVersion": "0.19.5",
     "description": "True Ending Modpack by iBryanbec",
     "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Cobblemon.zip"
-  }
+  },
+  {
+    "name": "DiosesMC",
+    "version": "1.0",
+    "requiredRole": "owner",
+    "type": "Fabric",
+    "minecraft": "1.21.10",
+    "loader": "fabric",
+    "loaderVersion": "0.18.3",
+    "description": "DiosesMC Modpack by iBryanbec",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/DiosesMC.zip"
+  },
 ]
