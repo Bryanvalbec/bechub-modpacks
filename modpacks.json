@@ -24,7 +24,7 @@
   {
     "name": "Cobblemon",
     "version": "1.0",
-    "requiredRole": "amigos",
+    "requiredRole": "vip",
     "type": "Fabric",
     "minecraft": "1.21.1",
     "loader": "fabric",
