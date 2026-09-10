@@ -46,5 +46,17 @@
     "description": "Hardcore Modpack by iBryanbec",
     "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Hardcore2.0.zip",
     "icon": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/icons/logohardcore.png"
+  },
+  {
+    "name": "Bingo!",
+    "version": "1.0",
+    "requiredRole": "amigos",
+    "type": "Fabric",
+    "minecraft": "26.2",
+    "loader": "fabric",
+    "loaderVersion": "0.19.3",
+    "description": "Minecraft Bingo by iBryanbec",
+    "download": "https://github.com/Bryanvalbec/bechub-modpacks/releases/download/v1.0/Bingo.zip",
+    "icon": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/icons/bingologo.png"
   }
 ]
