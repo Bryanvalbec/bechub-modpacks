@@ -7,6 +7,6 @@ export type RadminEventNetwork = {
 
 // Valores de respaldo usados solamente si GitHub no está disponible.
 export const radminEventNetwork: RadminEventNetwork = {
-  name: "NOMBRE_DE_LA_RED",
-  password: "CONTRASEÑA"
+  name: "BecHUB",
+  password: "121314"
 }
