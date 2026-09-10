@@ -48,7 +48,7 @@
     "icon": "https://raw.githubusercontent.com/Bryanvalbec/bechub-modpacks/main/icons/logohardcore.png"
   },
   {
-    "name": "Bingo!",
+    "name": "Bingo",
     "version": "1.0",
     "requiredRole": "amigos",
     "type": "Fabric",
